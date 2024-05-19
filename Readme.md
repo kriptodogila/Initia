@@ -1,17 +1,5 @@
-<h1 align="center"> INITIA
-
 
 ![image](https://github.com/molla202/pokemon/assets/91562185/c0d15ba5-72dd-4dcf-9766-3a4e72e42627)
-
-
-</h1>
-
-
- * [Topluluk kanalımız](https://t.me/corenodechat)<br>
- * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
- * [Discord](https://discord.com/invite/0glabs)<br>
- * [Twitter](https://twitter.com/0G_labs)<br>
- * [Discord](https://discord.gg/initia)<br>
 
 ## FAUCET 
 
@@ -26,7 +14,7 @@ https://scan.testnet.initia.xyz/initiation-1
 | ------------ | ------------ |
 | CPU |	6|
 | RAM	| 16+ GB |
-| Storage	| 400 GB SSD |
+| Storage	| 600 GB SSD |
 | System	| Ubuntu 22.04 OR 20.04 |
 
 ### 🚧Gerekli kurulumlar
